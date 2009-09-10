@@ -1,0 +1,16 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=2782
+
+*operator-replace* is a Vim plugin to provide an operator to replace
+a specified text with register content.  This is shortcut for several types of
+operations such as "d{motion}P" and "c{motion}<C-r>{register}".
+
+
+Requirements:
+- Vim 7.2 or later
+- |operator-user| 0.0.5 or later (vimscript#2692)
+
+Latest version:
+http://github.com/kana/vim-operator-replace
+
+Document in HTML format:
+http://kana.github.com/config/vim/operator-replace.html
